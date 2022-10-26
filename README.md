@@ -1,4 +1,4 @@
-# Phuong-Nam-book-store-clone-
+# Phuong-Nam-book-store-clone
 
 Đồ án môn thực tập cơ sở + Lập trình web PTIT HCM
 
