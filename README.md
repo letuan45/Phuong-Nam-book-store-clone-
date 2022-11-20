@@ -1,6 +1,6 @@
 # Phuong-Nam-book-store-clone
 
-Đồ án môn thực tập cơ sở + Lập trình web PTIT HCM
+Đồ án môn nhập môn công nghệ phần mềm + Lập trình web PTIT HCM
 
 - Sử dụng: Java Spring MVC, thư viện Bootstrap, Jquery
 - Hệ quản trị CSDL: SQL server 2014
